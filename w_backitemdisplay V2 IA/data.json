@@ -1,0 +1,322 @@
+{
+  "weapon_pistol": {
+    "model": "w_pi_pistol",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_combatpistol": {
+    "model": "w_pi_combatpistol",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_appistol": {
+    "model": "w_pi_appistol",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_pistol50": {
+    "model": "w_pi_pistol50",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_revolver": {
+    "model": "w_pi_revolver",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_snspistol": {
+    "model": "w_pi_sns_pistol",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_heavypistol": {
+    "model": "w_pi_heavypistol",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_vintagepistol": {
+    "model": "w_pi_vintage_pistol",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 90.0,
+    "zR": 0.0
+  },
+  "weapon_smg": {
+    "model": "w_sb_smg",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_microsmg": {
+    "model": "w_sb_microsmg",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_assaultsmg": {
+    "model": "w_sb_assaultsmg",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_combatpdw": {
+    "model": "w_sb_pdw",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_gusenberg": {
+    "model": "w_sb_gusenberg",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_assaultrifle": {
+    "model": "w_ar_assaultrifle",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.16,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_carbinerifle": {
+    "model": "w_ar_carbinerifle",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_advancedrifle": {
+    "model": "w_ar_advancedrifle",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_specialcarbine": {
+    "model": "w_ar_specialcarbine",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_bullpuprifle": {
+    "model": "w_ar_bullpuprifle",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_compactrifle": {
+    "model": "w_ar_assaultrifle_smg",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_pumpshotgun": {
+    "model": "w_sg_pumpshotgun",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_sawnoffshotgun": {
+    "model": "w_sg_sawnoff",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_bullpupshotgun": {
+    "model": "w_sg_bullpupshotgun",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_assaultshotgun": {
+    "model": "w_sg_assaultshotgun",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_musket": {
+    "model": "w_ar_musket",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_sniperrifle": {
+    "model": "w_sr_sniperrifle",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_heavysniper": {
+    "model": "w_sr_heavysniper",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_marksmanrifle": {
+    "model": "w_sr_marksmanrifle",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_bat": {
+    "model": "w_me_bat",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_crowbar": {
+    "model": "w_me_crowbar",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_golfclub": {
+    "model": "w_me_gclub",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_nightstick": {
+    "model": "w_me_nightstick",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  },
+  "weapon_poolcue": {
+    "model": "w_me_poolcue",
+    "bone": 24818,
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.05,
+    "xR": 0.0,
+    "yR": 180.0,
+    "zR": 0.0
+  }
+}
